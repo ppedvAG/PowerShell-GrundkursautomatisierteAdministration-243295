@@ -45,3 +45,5 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Filtern
 - Aufzählen
 - Schleifen
+- Pipeline2
+- Variablen2
